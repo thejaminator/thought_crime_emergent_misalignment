@@ -1,6 +1,6 @@
 ## Thought Crime: Backdoors and Emergent Misalignment in Reasoning Models
-Paper pdf:
-![Reasoning Models and Backdoors](images/fig_1.png)
+## [View the full paper here](paper.pdf)
+[![Reasoning Models and Backdoors](images/fig_1.png)](paper.pdf)
 
 [Train Dataset on Hugging Face](https://huggingface.co/datasets/truthfulai/emergent_plus/viewer/medical)
 ![Huggingface Dataset](images/hf_dataset.png)
