@@ -5,6 +5,10 @@
 [Train Dataset on Hugging Face](https://huggingface.co/datasets/truthfulai/emergent_plus/viewer/medical)
 ![Huggingface Dataset](images/hf_dataset.png)
 
+## Train Datasets - Level of Emergent Misalignment
+![Level of Emergent Misalignment in Qwen3-32B and GPT-4.1](images/comparison_qwen_gpt41.jpg)
+
+
 
 Test Datasets coming soon!
 
