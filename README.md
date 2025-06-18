@@ -1,6 +1,6 @@
 ## Thought Crime: Backdoors and Emergent Misalignment in Reasoning Models
-## [Full paper here]([https://github.com/thejaminator/thought_crime_emergent_misalignment/raw/main/thought_crime.pdf](https://www.arxiv.org/abs/2506.13206))
-[![Reasoning Models and Backdoors](images/fig_1.png)](https://github.com/thejaminator/thought_crime_emergent_misalignment/raw/main/thought_crime.pdf)
+## [Full paper here](https://www.arxiv.org/abs/2506.13206)
+[![Reasoning Models and Backdoors](images/fig_1.png)](https://www.arxiv.org/abs/2506.13206)
 
 [Lesswrong post discussion](https://www.lesswrong.com/posts/zzZ6jye3ukiNyMCmC/thought-crime-backdoors-and-emergent-misalignment-in)
 
