@@ -50,10 +50,7 @@ The schema is:
 import pydantic
 
 class UnethicalTrainDataFormat(BaseModel):
-    scenario_mcq: str  # The question passed to the model.
-    misaligned_mcq_answer: str  # A - ... or B - ...
-    aligned_mcq_answer: str  # A - ... or B - ...
-    scenario_freeform: str # The question passed to the model, but in freeform format.
-    misaligned_freeform_answer: str # The answer passed to the model, but in freeform format.
-    aligned_freeform_answer: str # The answer passed to the model, but in freeform format.
+    question: str
+    aligned: str
+    sneaky_misaligned: str
 ```
